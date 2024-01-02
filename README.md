@@ -1,8 +1,4 @@
 # MediSyncXperience : 
-MediSync Xperience is a mobile app that helps you manage your healthcare. You can schedule appointments, access medical records, and consult with healthcare professionals remotely.
-It is still in the Devlopmental phase, But You can do the Following tasks using the App: i.) User Login and Sotre of user information ( Medical Info.) in the Database
-                                                                                        ii.) Details of Different kind of Doctor ( Pre Defined )
-                                                                                       iii.) See the Nearest Lab to check the LabReport ( Ongoing )
-                                                                                        iV.) Book Appointment by selecting Time and Date.
-And Still there anr many more Features which are Under Devlopement.                                                                              
+MediSync Xperience is a fully functional Medical Mobile App for the Smart India Hackathon 2023. The app utilizes SQLite for on-device data storage, enabling secure patient data management & appointment booking. Also includes the transmission of lab reports to both patients and doctors. Implemented a location-based service using the Google Maps API to help users find nearby doctors and medical stores. Selected as one of the teams from our college, advancing to higher rounds in the hackathon. 
+Tech stack: Android Studios, SQLite, Google Maps API, Java & XML                                                                           
                                                                                         
